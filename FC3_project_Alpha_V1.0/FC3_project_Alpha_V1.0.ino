@@ -3,8 +3,7 @@
   Created: 11/15/2023
   Author:  James Sears
 
-  Code and schematic demonstrating how to interface an Arduino with 12V signals
-  from a vehicle.
+  Code demonstrates how to interface a 12V signal from a car to an arduino, making LEDs function inside a taillight.
 */
 
 #include <Adafruit_NeoPixel.h>
